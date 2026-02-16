@@ -1,0 +1,24 @@
+[
+    {
+        "id": "n699302b4310db6.16397411",
+        "title": "sad",
+        "content": "sad",
+        "color": "#FFDAB9",
+        "folderId": "1771242169",
+        "isFavorite": true,
+        "createdAt": "2026-02-16T12:42:44+01:00",
+        "updatedAt": "2026-02-16T12:42:59+01:00",
+        "userId": "1"
+    },
+    {
+        "id": "n699302a3838f07.45575385",
+        "title": "deneme",
+        "content": "deneme",
+        "color": "#C7CEEA",
+        "folderId": "1771242154",
+        "isFavorite": false,
+        "createdAt": "2026-02-16T12:42:27+01:00",
+        "updatedAt": "2026-02-16T12:42:37+01:00",
+        "userId": "1"
+    }
+]
